@@ -1,0 +1,56 @@
+.bm-burger-button {
+  position: fixed;
+  width: 43px;
+  height: 40px;
+  right: 18px;
+  top: 25px;
+}
+
+.bm-burger-bars {
+  background: #000;
+}
+
+/* .bm-menu-wrap {
+  visibility: hidden;
+} */
+
+/* .bm-menu-wrap.open {
+  visibility: visible;
+} */
+
+.bm-cross-button {
+  height: 48px;
+  width: 48px;
+}
+
+.bm-cross {
+  background: red;
+  height: 60px;
+  width: 60px;
+}
+
+.bm-menu {
+  background: black;
+  font-size: 1.3rem;
+  overflow-y: hidden !important;
+}
+
+.bm-item-list {
+  padding: 2rem 0.7rem 0;
+}
+
+.bm-item {
+  display: inline-block;
+  color: white;
+  margin-top: 0.5rem;
+  text-decoration: none;
+}
+
+.bm-item:hover {
+  border: 0.1px solid darkred;
+  background-color: #28282b;
+}
+
+.menu-item {
+  padding: 1rem 4rem;
+}

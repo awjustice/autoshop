@@ -1,0 +1,46 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 0.2rem 0;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+}
+
+#invisible {
+  display: none;
+}
+
+#brand {
+  font-size: 0.8rem;
+  margin-left: auto;
+}
+
+#justice {
+  text-decoration: none;
+}
+
+#copyright {
+  margin-right: 0.3rem;
+}
+
+div a {
+  margin: 0 0.3rem;
+}
+
+span {
+  font-size: 1.7rem;
+  color: blue;
+}
+
+@media screen and (min-width: 768px) {
+  #invisible {
+    display: inline-block;
+    margin-right: auto;
+    visibility: hidden;
+  }
+}
