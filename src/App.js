@@ -10,7 +10,7 @@ import Contact from "./components/Contact.js";
 const App = () => {
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <BurgerMenu />
         <Switch>
           <Route path="/" exact component={Home}></Route>
