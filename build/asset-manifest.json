@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Auto-Shop/static/css/main.cae41805.chunk.css",
-    "main.js": "/Auto-Shop/static/js/main.6b9b66b8.chunk.js",
-    "main.js.map": "/Auto-Shop/static/js/main.6b9b66b8.chunk.js.map",
-    "runtime-main.js": "/Auto-Shop/static/js/runtime-main.97e2f45c.js",
-    "runtime-main.js.map": "/Auto-Shop/static/js/runtime-main.97e2f45c.js.map",
-    "static/js/2.e478e098.chunk.js": "/Auto-Shop/static/js/2.e478e098.chunk.js",
-    "static/js/2.e478e098.chunk.js.map": "/Auto-Shop/static/js/2.e478e098.chunk.js.map",
-    "index.html": "/Auto-Shop/index.html",
-    "static/css/main.cae41805.chunk.css.map": "/Auto-Shop/static/css/main.cae41805.chunk.css.map",
-    "static/js/2.e478e098.chunk.js.LICENSE.txt": "/Auto-Shop/static/js/2.e478e098.chunk.js.LICENSE.txt",
-    "static/media/acuraLogo.db075140.jpg": "/Auto-Shop/static/media/acuraLogo.db075140.jpg",
-    "static/media/lexusLogo.f42fe8fc.jpg": "/Auto-Shop/static/media/lexusLogo.f42fe8fc.jpg",
-    "static/media/mazdaLogo.124b76f4.jpg": "/Auto-Shop/static/media/mazdaLogo.124b76f4.jpg",
-    "static/media/toyotaLogo.d8b836e0.jpg": "/Auto-Shop/static/media/toyotaLogo.d8b836e0.jpg"
+    "main.css": "/autoshop/static/css/main.cae41805.chunk.css",
+    "main.js": "/autoshop/static/js/main.6b9b66b8.chunk.js",
+    "main.js.map": "/autoshop/static/js/main.6b9b66b8.chunk.js.map",
+    "runtime-main.js": "/autoshop/static/js/runtime-main.43ded0db.js",
+    "runtime-main.js.map": "/autoshop/static/js/runtime-main.43ded0db.js.map",
+    "static/js/2.a4be25eb.chunk.js": "/autoshop/static/js/2.a4be25eb.chunk.js",
+    "static/js/2.a4be25eb.chunk.js.map": "/autoshop/static/js/2.a4be25eb.chunk.js.map",
+    "index.html": "/autoshop/index.html",
+    "static/css/main.cae41805.chunk.css.map": "/autoshop/static/css/main.cae41805.chunk.css.map",
+    "static/js/2.a4be25eb.chunk.js.LICENSE.txt": "/autoshop/static/js/2.a4be25eb.chunk.js.LICENSE.txt",
+    "static/media/acuraLogo.db075140.jpg": "/autoshop/static/media/acuraLogo.db075140.jpg",
+    "static/media/lexusLogo.f42fe8fc.jpg": "/autoshop/static/media/lexusLogo.f42fe8fc.jpg",
+    "static/media/mazdaLogo.124b76f4.jpg": "/autoshop/static/media/mazdaLogo.124b76f4.jpg",
+    "static/media/toyotaLogo.d8b836e0.jpg": "/autoshop/static/media/toyotaLogo.d8b836e0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.97e2f45c.js",
-    "static/js/2.e478e098.chunk.js",
+    "static/js/runtime-main.43ded0db.js",
+    "static/js/2.a4be25eb.chunk.js",
     "static/css/main.cae41805.chunk.css",
     "static/js/main.6b9b66b8.chunk.js"
   ]
