@@ -40,7 +40,7 @@ const Contact = () => {
   return (
     <div id="body">
       <div id="form">
-        <h3>Send A Message</h3>
+        <h3>Book an Appointment</h3>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
@@ -82,11 +82,9 @@ const Contact = () => {
             rows="8"
             cols="40"
             value={message}
-            placeholder="Message"
+            placeholder="What service do you need?"
             onChange={handleMessageChange}
-          >
-            Your message...
-          </textarea>
+          ></textarea>
           <br />
 
           <button id="button" type="submit" value="submit">

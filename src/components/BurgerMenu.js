@@ -16,7 +16,7 @@ const BurgerMenu = () => {
         Services
       </Link>
       <Link id="Contact" to={"/Contact"} className="menu-item">
-        Contact
+        Appointment
       </Link>
     </Menu>
   );

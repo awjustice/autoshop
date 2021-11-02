@@ -7,7 +7,7 @@
 }
 
 .bm-burger-bars {
-  background: #000;
+  background: rgb(12, 11, 11);
 }
 
 /* .bm-menu-wrap {
@@ -30,7 +30,7 @@
 }
 
 .bm-menu {
-  background: black;
+  background: rgb(0, 0, 0);
   font-size: 1.3rem;
   overflow-y: hidden !important;
 }
@@ -47,10 +47,13 @@
 }
 
 .bm-item:hover {
-  border: 0.1px solid darkred;
-  background-color: #28282b;
+  background-color: #131314;
 }
 
 .menu-item {
   padding: 1rem 4rem;
+}
+
+#Contact {
+  background-color: #7e0505;
 }

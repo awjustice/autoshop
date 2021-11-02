@@ -102,7 +102,7 @@ img {
 }
 
 #slogan {
-  margin-top: 3.4rem;
+  margin-top: 2.4rem;
   display: inline-block;
   z-index: 2;
   position: relative;
@@ -133,8 +133,13 @@ img {
   font-weight: 900;
 }
 
-@media only screen and (max-width: 600px) {
+h5 {
+  color: #ffffff !important;
+  background-color: #000000;
+}
+
+/* @media only screen and (max-width: 600px) {
   #slogan {
     margin-top: 3.4rem;
   }
-}
+} */
